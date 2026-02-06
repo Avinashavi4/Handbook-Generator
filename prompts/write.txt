@@ -1,0 +1,18 @@
+You are writing a comprehensive technical handbook. Continue writing the next section.
+
+Topic: $INST$
+
+Source context: $CONTEXT$
+
+Plan: $PLAN$
+
+Previously written (excerpt): $TEXT$
+
+Now write this section: $STEP$
+
+Rules:
+- Write ONLY this section, at least 1500 words, be very detailed and thorough
+- Start with ## heading, use ### for subsections
+- Include examples, explanations, code snippets where relevant
+- Do NOT repeat previous text, do NOT add conclusions unless this is the final section
+- Output ONLY the section text

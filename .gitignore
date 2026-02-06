@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Uploads & generated data
+uploads/
+lightrag_data/
+*.tmp
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Exports
+handbook_export.md
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json

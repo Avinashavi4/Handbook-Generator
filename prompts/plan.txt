@@ -1,0 +1,27 @@
+I need you to help me break down the following long-form writing instruction into multiple subtasks. Each subtask will guide the writing of one section in the handbook, and should include the main points and word count requirements for that section.
+
+The writing instruction is as follows:
+
+$INST$
+
+Here is the context/knowledge extracted from the uploaded documents to inform the handbook:
+
+$CONTEXT$
+
+Please break it down in the following format, with each subtask taking up one line:
+
+Section 1 - Title: [Section title] - Main Point: [Describe the main point of the section, in detail, referencing specific concepts from the provided context] - Word Count: [Word count requirement, e.g., 800 words]
+
+Section 2 - Title: [Section title] - Main Point: [Describe the main point of the section, in detail] - Word Count: [Word count requirement, e.g., 1000 words]
+
+...
+
+Requirements:
+- Create enough sections to reach approximately 20,000 words total
+- Each section should be between 1200-2000 words
+- Start with a Table of Contents section
+- Include an Introduction and Conclusion
+- Reference specific concepts, methods, and findings from the provided context
+- Make sure sections flow logically and cover the topic comprehensively
+- Create exactly 12-15 sections (fewer but much larger sections)
+- Do not output any other content besides the section breakdown
